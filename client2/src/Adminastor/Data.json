@@ -1,0 +1,61 @@
+[
+    { "id": 1, 
+    "icon": "ri-user-line", 
+    "label": "Clients", 
+    "count": 2523, 
+    "bgColor": "green-400",
+    "stoke" : "#f9f871"
+    },
+    { "id": 2, 
+    "icon": "ri-shopping-cart-2-line", 
+    "label": "Sales", 
+    "count": 1500, 
+    "bgColor": "blue-400",
+    "stoke" : "#00c9a7"
+    },
+    { "id": 3, 
+    "icon": "ri-database-line", 
+    "label": "Products", 
+    "count": 800, 
+    "bgColor": "orange-400",
+    "stoke" : "#b39cd0"
+    },
+    { "id": 4, 
+    "icon": "ri-file-list-3-line", 
+    "label": "Orders", 
+    "count": 1200, 
+    "bgColor": "purple-400",
+    "stoke" : "#ff9671"
+    },
+
+    { "id": 5, 
+    "icon": "ri-store-3-line", 
+    "label": "Stores", 
+    "count": 300, 
+    "bgColor": "red-400",
+    "stoke" : "rgb(52, 152, 219)"
+    },
+    { "id": 6, 
+    "icon": "ri-wallet-3-line", 
+    "label": "Revenue", 
+    "count": 5000, 
+    "bgColor": "green-500",
+    "stoke" : "#60ecab"
+    },
+    { "id": 7, 
+    "icon": "ri-money-dollar-circle-line", 
+    "label": "Expenses", 
+    "count": 2000, 
+    "bgColor": "red-500",
+    "stoke" : "#eb5463"
+    },
+    { "id": 8, 
+    "icon": "ri-news-line", 
+    "label": "Blog Posts", 
+    "count": 1000, 
+    "bgColor": "pink-400",
+    "stoke" : "#ff6f91"
+    }
+]
+
+
